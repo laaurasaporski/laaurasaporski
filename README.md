@@ -90,7 +90,10 @@ Currently pursuing an MBA in Data Science & Artificial Intelligence, developing 
 
 # 📊 GitHub Stats
 
-![Top Langs](https://githubreadmestats.vercel.app/api/toplangs/username=laaurasaporski&layout=compact&theme=tokyonight&hide_border=true)
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaurasaporski&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Top Languages"
+/>
 
 
 
