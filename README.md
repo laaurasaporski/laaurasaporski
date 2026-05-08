@@ -95,8 +95,7 @@ Currently pursuing an MBA in Data Science & Artificial Intelligence, developing 
 ---
 
 # 🔥 Most Used Languages
-
-![TopLangs]([https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm](https://github-readme-stats.vercel.app/api/top-langs/?username=laaurasaporski&layout=donut&theme=tokyonight&hide_border=true))
+![Top Langs](https://githubreadmestats.vercel.app/api/toplangs/username=laaurasaporski&layout=donut&theme=tokyonight&hide_border=true)
 
 # 🌎 Connect with me
 
