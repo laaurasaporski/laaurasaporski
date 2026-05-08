@@ -108,13 +108,5 @@ Currently pursuing an MBA in Data Science & Artificial Intelligence, developing 
 - Data Analytics
 - AI-driven business solutions
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laaurasaporski&layout=compact&theme=tokyonight)
-
 ---
-
-## 🌎 Connect with me
-
-- 💼 LinkedIn
-- 📧 Networking & Tech Opportunities
-- 🚀 Open to QA, Data & AI projects
 
