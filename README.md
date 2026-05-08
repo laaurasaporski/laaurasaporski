@@ -88,18 +88,13 @@ Currently pursuing an MBA in Data Science & Artificial Intelligence, developing 
 
 ---
 
-# 📊 GitHub Stats
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaurasaporski&layout=donut&theme=tokyonight&hide_border=true" 
-  alt="Top Languages"
-/>
-
 
 
 # 🌎 Connect with me
 
-- 💼 LinkedIn
+<a href="https://www.linkedin.com/in/laurasaporski-data/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Laura%20Saporski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 - 📧 Networking & Tech Opportunities
 - 🚀 Open to QA, Data & AI projects
 
