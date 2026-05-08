@@ -95,8 +95,6 @@ Currently pursuing an MBA in Data Science & Artificial Intelligence, developing 
 <a href="https://www.linkedin.com/in/laurasaporski-data/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Laura%20Saporski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-- 📧 Networking & Tech Opportunities
-- 🚀 Open to QA, Data & AI projects
 
 ---
 
