@@ -90,12 +90,10 @@ Currently pursuing an MBA in Data Science & Artificial Intelligence, developing 
 
 # 📊 GitHub Stats
 
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laaurasaporski&show_icons=true&theme=tokyonight&hide_border=true)
+![Laura's GitHub stats(https://githubreadmestats.vercel.app/apiusername=laaurasaporski&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-# 🔥 Most Used Languages
-![Top Languages](https://githubreadmestats.vercel.app/api/toplanguages/username=laaurasaporski&layout=donut&theme=tokyonight&hide_border=true)
 
 # 🌎 Connect with me
 
