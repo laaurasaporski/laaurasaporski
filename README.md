@@ -95,7 +95,7 @@ Currently pursuing an MBA in Data Science & Artificial Intelligence, developing 
 ---
 
 # 🔥 Most Used Languages
-![Top Langs](https://githubreadmestats.vercel.app/api/toplangs/username=laaurasaporski&layout=donut&theme=tokyonight&hide_border=true)
+![Top Languages](https://githubreadmestats.vercel.app/api/toplanguages/username=laaurasaporski&layout=donut&theme=tokyonight&hide_border=true)
 
 # 🌎 Connect with me
 
