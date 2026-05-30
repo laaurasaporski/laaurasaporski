@@ -6,20 +6,12 @@ Professionally focused on Quality Assurance, I am now working as a QA Tutor, lov
 
 Something really important about me is that I have been a crazy Barcelona fan since 2008, soccer has been my biggest passion! ⚽
 
-Currently pursuing an MBA in Data Science & Artificial Intelligence, developing practical projects involving:
-- Machine Learning
-- NLP & BERT
-- Test Automation
-- AI Workflows
-- Predictive Models
-- Business Analytics
-- Time Series Forecasting
-- Statistical Analysis
-- Data Visualization
 
----
 
-# 🛠️ Tech Stack
+
+
+
+# 🛠️ Talking about the Tech Stack:
 
 ## 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
