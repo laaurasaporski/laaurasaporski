@@ -4,7 +4,7 @@
 
 Professionally focused on Quality Assurance, I am now working as a QA Tutor, loving Data Science and Artificial Intelligence more every day, with hands-on experience that has given me a different perspective not only on working with data but also on QA. 
 
-Something really important about me is that I have been a crazy Barcelona fan since 2008, soccer has been my biggest passion! ⚽
+Something really important about me is that I have been a crazy Barcelona fan since 2008, soccer has been my biggest passion, another thing is that I am a pet's mom, I have Nani, my little lion, and Lexie, my little tiger ⚽🐶🐱
 
 
 
