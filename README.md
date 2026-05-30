@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Laura Saporski
 
-## 🚀 QA | Data Analytics | AI & Automation
+## QA | Data Analytics | AI & Automation
 
-Professional focused on Quality Assurance, Data Analytics and Artificial Intelligence, with hands-on experience in software testing, data validation, automation and business-driven insights.
+Professionally focused on Quality Assurance, I am working as a QA Tutor now, loving every day more Data Science and Artificial Intelligence, with hands-on experience, which gave me a different perspective not only to work with data, but also with QA. 
+Something really important about me is that I have been a crazy Barcelona fan since 2008, soccer has been my biggest passion! ⚽
 
 Currently pursuing an MBA in Data Science & Artificial Intelligence, developing practical projects involving:
 - Machine Learning
