@@ -7,10 +7,7 @@ Professionally focused on Quality Assurance, I am now working as a QA Tutor, lov
 Something really important about me is that I have been a crazy Barcelona fan since 2008, soccer has been my biggest passion, another thing is that I am a pet's mom, I have Nani, my little lion, and Lexie, my little tiger ⚽🐶🐱
 
 
-
-
-
-                                                                                                                                                                          
+---                                                                                                                                                                     
 # 🛠️ Talking about the Tech Stack:
 
 ## 💻 Languages
