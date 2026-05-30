@@ -11,7 +11,7 @@ Something really important about me is that I have been a crazy Barcelona fan si
 
 
 
-# 🛠️ Talking about the Tech Stack:
+### 🛠️ Talking about the Tech Stack:
 
 ## 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
